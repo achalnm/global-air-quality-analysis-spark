@@ -47,21 +47,6 @@ This dataset is structurally complete but required string normalisation for accu
 
 ---
 
-## Repository Contents
-- `data/`
-  - Cleaned and processed datasets
-  - Exported analytical subsets in CSV and Parquet formats
-- `notebooks/`
-  - PySpark notebooks implementing the full ETL and analytics pipeline
-- `report/`
-  - Final project report describing methodology, architecture, and results
-- `README.md`
-  - Project documentation and usage details
-
-The dataset files and the full written report are included in this repository. References and links to the original data sources are available in the report.
-
----
-
 ## Data Processing Pipeline
 The pipeline is implemented entirely in PySpark and follows a modular, scalable design.
 
