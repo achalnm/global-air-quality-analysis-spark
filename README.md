@@ -105,6 +105,6 @@ Double precision arithmetic is used to safely handle large population values.
 | Name                     | Student ID  | Email ID                                   |
 |--------------------------|-------------|--------------------------------------------|
 | Achal Nanjundamurthy     | A00050840   | achalnm02@gmail.com         |
-| Tejas Shiva Kumar        | A00050674   | tejas.shivakumar2@mail.dcu.ie              |
+| Tejas Shiva Kumar        | A00050674   | tejasshivakumar104@gmail.com             |
 
 ---
