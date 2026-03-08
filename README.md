@@ -1,7 +1,7 @@
 # Global Air Quality Analysis Using Spark
 
 ## Overview
-This repository contains an end to end cloud data analytics pipeline implemented using Apache Spark (PySpark) to analyse global air quality data. The project integrates World Health Organization air pollution measurements with World Bank population statistics to move beyond raw environmental indicators and quantify population level exposure and health risk.
+This repository contains an end-to-end cloud data analytics pipeline implemented using Apache Spark (PySpark) to analyse global air quality data. The project integrates World Health Organization air pollution measurements with World Bank population statistics to move beyond raw environmental indicators and quantify population level exposure and health risk.
 
 The pipeline performs large scale data ingestion, cleaning, standardisation, integration, and feature engineering to derive composite metrics such as a Pollution Index and a population weighted Health Risk Index. The final outputs enable cross country and temporal comparisons of air pollution intensity and its potential public health impact.
 
