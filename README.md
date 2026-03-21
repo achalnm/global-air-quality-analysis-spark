@@ -102,7 +102,7 @@ Double precision arithmetic is used to safely handle large population values.
 
 ## Contributors
 
-| Name                     | Student ID  | Email ID                                   |
+| Name                     | DCU Student ID  | Email ID                                   |
 |--------------------------|-------------|--------------------------------------------|
 | Achal Nanjundamurthy     | A00050840   | achalnm02@gmail.com         |
 | Tejas Shiva Kumar        | A00050674   | tejasshivakumar104@gmail.com             |
