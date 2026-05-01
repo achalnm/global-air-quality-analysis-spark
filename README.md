@@ -5,7 +5,7 @@ This repository contains an end-to-end cloud data analytics pipeline implemented
 
 The pipeline performs large scale data ingestion, cleaning, standardisation, integration, and feature engineering to derive composite metrics such as a Pollution Index and a population weighted Health Risk Index. The final outputs enable cross country and temporal comparisons of air pollution intensity and its potential public health impact.
 
-This project was developed as part of an MSc level Cloud Computing assignment and demonstrates scalable data engineering principles using distributed processing.
+This project was developed as part of an MSc. level Cloud Computing assignment and demonstrates scalable data engineering principles using distributed processing.
 
 ---
 
